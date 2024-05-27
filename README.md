@@ -42,6 +42,9 @@ python -m unittest test_lab2.py
 
 [commit is here](https://github.com/xastia/methodology-lab2/actions/runs/9252934428/job/25451595763)
 
+## Посилання на revert-коміт
+
+[revert-commit is here](https://github.com/xastia/methodology-lab2/commit/49a9ec2f27e7c0ed7204a5ecd877c71066e91a74)
 ## Висновки
 
 На мою думку,тести дуже допомагають відслідковувати коректність роботи програми,особливо у разі змін.
