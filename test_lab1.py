@@ -1,4 +1,4 @@
-import unittest
+gimport unittest
 from lab1 import parse_markdown, parse_markdown_to_ansi
 
 class TestMarkdownParser(unittest.TestCase):
@@ -20,7 +20,7 @@ class TestMarkdownParser(unittest.TestCase):
 
     def test_preformatted_html(self):
         md_content = "```Preformatted text **He He**```"
-        expected_output = "<pre></pre>\n"
+        expected_output = "<pre>gdxsbfxfb</pre>\n"
         self.assertEqual(parse_markdown(md_content), expected_output)
 
     def test_bold_ansi(self):
