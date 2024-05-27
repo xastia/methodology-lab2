@@ -1,5 +1,5 @@
 import unittest
-from lab1 import parse_markdown, parse_markdown_to_ansi
+from lab2 import parse_markdown, parse_markdown_to_ansi
 
 class TestMarkdownParser(unittest.TestCase):
 
